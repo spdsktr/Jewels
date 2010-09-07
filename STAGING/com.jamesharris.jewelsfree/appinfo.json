@@ -3,7 +3,7 @@
 	"type": "pdk",
 	"main": "gemz",
 	"id": "com.jamesharris.jewelsfree",
-	"version": "0.2.0",
+	"version": "0.5.0",
 	"vendor": "James Harris",
-	"icon":	"appIcons/icon_64.png"
+	"icon":	"icon_64.png"
 }
